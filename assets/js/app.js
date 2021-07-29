@@ -2,7 +2,7 @@
 
 let header = $(`
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="navbar">
-<a class="navbar-brand" href="index.html">John Doe </a>
+<a class="navbar-brand" href="index.html">Justin Hill </a>
 <div class="hamburger_wrapper navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
   <div id="js-hamburger" class="hamburger">
@@ -113,7 +113,7 @@ let footer = $(`
       <p class="tag" >Develop a passion for learning. If you do, you will never cease to grow.</p>
     </div>
 
-    
+
     <div class="container">
       <div class="row">
         <div class="col-lg-6 col-md-12 mb-4 mb-md-0 justify-content-center">
@@ -143,7 +143,7 @@ let footer = $(`
     </div>
 
 
-    
+
 
     <div class="rounded-social-buttons tag">
     <a class="social-button twitter" href="#" target="_blank">
@@ -242,7 +242,7 @@ let footer = $(`
     </a>
 
 
-    
+
     </div>
     </div>
 </footer>
@@ -386,4 +386,3 @@ $(window).on('load', function() {
   },1000);
   $('.loader-container').fadeOut(2500);
 });
-
