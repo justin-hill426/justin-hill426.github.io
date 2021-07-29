@@ -20,6 +20,13 @@ const exp = [
     desp: "<li>Worked with fellow students on open-source projects in the local community.</li>",
   },
   {
+    title: "Software Engineering Intern",
+    cardImage: "assets/images/experience-page/inari-logo.png",
+    place: "Inari Medical",
+    time: "(April, 2021 - August, 2021)",
+    desp: "<li>Worked on several different technical projects for the company</li>",
+  },
+  {
     title: "Computer Science Instructor",
     cardImage: "assets/images/experience-page/juni-logo.png",
     place: "Juni Learning",
