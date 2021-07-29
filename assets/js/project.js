@@ -11,7 +11,15 @@ const projects = [
     description: "A quote generator webpage built using JavaScript and HTML/CSS",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/justin-hill426/QuoteGenerator",
+  },
+  {
+    title: "PhraseHunter Web Game",
+    cardImage: "assets/images/project-page/PhraseHunter.png",
+    description: "A fun interactive web game that involves guessing popular phrases and slogans",
+    tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
+    Previewlink: "",
+    Githublink: "https://github.com/justin-hill426/GameShowApp",
   },
   {
     title: "Startup Directory",
@@ -19,7 +27,7 @@ const projects = [
     description: "An employee directory built for fictional startup using JavaScript and HTML/CSS",
     tagimg: "https://image.flaticon.com/icons/png/512/643/643350.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/justin-hill426/APIProject",
   },
   {
     title: "Interactive Web Form",
@@ -27,7 +35,7 @@ const projects = [
     description: "An interactive form built for a fictional tech conference",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",
     Previewlink: "",
-    Githublink: "",
+    Githublink: "https://github.com/justin-hill426/InteractiveForm",
   },
 ];
 
